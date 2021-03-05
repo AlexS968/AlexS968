@@ -1,10 +1,9 @@
-# Hi, 👋 I am [Alex](https://www.linkedin.com/in/alexsablin)
+## Hi, 👋 I am [Alex](https://www.linkedin.com/in/alexsablin)
 
-### I am an entry level Java developer :sunglasses: and currently looking
-### for an opportunity to contribute to an open source project... :pray:
-##
-##
-### I am also very interested in Vue... 😄
+**I am an entry level Java developer :sunglasses: and currently looking <br />
+for an opportunity to contribute to an open source project...** :pray: <br /><br />
+
+*I am also very interested in Vue...* 😄
 
 
 <!--
