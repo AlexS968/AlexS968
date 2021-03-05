@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, 👋 I am [Alex](https://www.linkedin.com/in/alexsablin)
+
+### I am an entry level Java developer :sunglasses: and currently looking
+### for an opportunity to contribute to an open source project... :pray:
+##
+##
+### I am also very interested in Vue... 😄
+
 
 <!--
 **AlexS968/AlexS968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
